@@ -110,9 +110,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <td align="center"><a 
 <a href="[https://github.com/Jostin207]"><img src="https://github.com/Jostin207.png" width="100" height="100" alt="Jostin"/></a>
   
-## `Goku-Black-Bot-MD-Lite`
-## `Dueño:Ivan`
-
+## `Rengoku-BOT`
+## `Dueño:Timothy`
 ____
 ### **`Superiority Pro Hosting 🤖`**
 <a href="https://dash.superiority.pro/login"><img src="https://qu.ax/TiBm.jpg" height="125px"></a>
@@ -126,5 +125,3 @@ ____
 
 </details>
 ------------------
-
-© 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐒𝐢𝐱𝐅𝐢𝐧 𝐓𝐞𝐚𝐦 ⚡︎
