@@ -101,7 +101,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
 ## `🌹PROPIETARIO DEL BOT🌹` 
-<a href="https://github.com/Ivanmods15"><img src="https://github.com/Ivanmods15.png" width="250" height="250" alt="Ivan"/></a>
+<a href="https://github.com/Ivanmods15"><img src="https://github.com/Kutxu/Rengoku/blob/main/972cbca6ee4f6fc81d61e66981bcf2e3.jpg" width="250" height="250" alt="Ivan"/></a>
   
 
 ## `🌼COLABORADORES DEL BOT🌼` 
